@@ -1,9 +1,10 @@
-#include <main'h>
+#include "main.h"
 
 /**
  * _supper
+ * the number to be checked
  *
- * return 0
+ * return: 1 for the upper letter or 0 for any else
  */
 int _isuuper(int x)
 {
