@@ -1,16 +1,22 @@
 #include "main.h"
 
 /**
- * _supper
- * the number to be checked
+ * main - Prints "putchar" followed by a new line.
  *
- * return: 1 for the upper letter or 0 for any else
+ * Return: Always 0.
  */
-int _isuuper(int x)
+
+int main(void)
 {
-	i (x >= 65 && x <= 90)
-	{
-		return (1);
-	}
-	return (0);
-{
+        _putchar('_');
+        _putchar('p');
+        _putchar('u');
+        _putchar('t');
+        _putchar('c');
+        _putchar('h');
+        _putchar('a');
+        _putchar('r');
+        _putchar('\n');
+
+        return (0);
+}
