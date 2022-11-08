@@ -19,6 +19,6 @@ char *_strcpy(char *dest, char *src)
 	}
 
 	while
-		return (dest);
+	return (dest);
 }
 

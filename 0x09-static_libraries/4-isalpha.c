@@ -7,7 +7,7 @@
  * Return: 1 if the chair is lowercase, otheerwise 0.
  */
 
-int _4-isalpha.c(int c)
+int 4-isalpha.c(int c)
 {
         int _islower
         if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
