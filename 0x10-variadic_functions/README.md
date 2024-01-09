@@ -1,1 +1,0 @@
-solution for variadic functions
